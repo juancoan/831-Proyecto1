@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1362860515 source:c:\users\oar2\documents\uned\2013 primer cuatrimestre\831 - introduccion a la programacion\proyecto 1\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<algorithm>
+
